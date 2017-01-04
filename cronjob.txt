@@ -1,0 +1,9 @@
+# the MAILTO line tells it to email you any output that is not otherwise directed
+MAILTO=youremail@example.com
+# this says that at 59 minutes past the 23rd hour (11pm)
+# on every day of every month of every year
+# so every day at 11:59pm
+# to run the script at ~/workspace/convert.sh
+# all output EXCEPT error messages will go to dev/null, which is like the trash
+# error messages go to your email
+59 23 * * * ~/workspace/convert.sh >/dev/null 

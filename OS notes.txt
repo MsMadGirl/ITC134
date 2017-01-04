@@ -1,0 +1,23 @@
+10/4/16
+
+internet created to be an information-sharing network that could survive nuclear war
+packets
+streaming
+
+networks do not exist without humans and their needs
+machines are facilators
+
+use command line because gui bloats resources
+servers exist to do nothing but serve files
+servers don't use guis
+
+C# was designed to kill Java
+
+you have user profiles to be your sandbox
+
+education.github.com
+git is the command line function, github is the network and application
+can get free stuff from educational github
+
+10/13/16
+

@@ -1,0 +1,12 @@
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\bin\Debug\WpfTipCalculatorTests.dll
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\bin\Debug\WpfTipCalculatorTests.pdb
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\bin\Debug\WpfTipCalculator.exe
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\bin\Debug\WpfTipCalculator.pdb
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\obj\Debug\WpfTipCalculatorTests.csprojResolveAssemblyReference.cache
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\obj\Debug\WpfTipCalculatorTests.dll
+E:\ITC110 Programming\Assignment8\WpfTipCalculatorTests\obj\Debug\WpfTipCalculatorTests.pdb
+E:\ITC134 OSes\TDDassignment-master\WpfTipCalculatorTests\obj\Debug\WpfTipCalculatorTests.csprojResolveAssemblyReference.cache
+E:\ITC134 OSes\TDDassignment-master\WpfTipCalculatorTests\obj\Debug\WpfTipCalculatorTests.dll
+E:\ITC134 OSes\TDDassignment-master\WpfTipCalculatorTests\obj\Debug\WpfTipCalculatorTests.pdb

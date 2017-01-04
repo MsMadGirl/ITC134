@@ -1,0 +1,28 @@
+White paper notes
+
+10/4/16
+Rebecca Scott
+Read Wikipedia article, 20 min
+
+
+Wikipedia notes:
+VM emulates a computer system. Different kinds. Some may involved specialized hardware, software, or both. Different kinds have different function. Some can emulate entire operating systems. Hypervisors use native execution, allowing for multiple isolated environments on same machine. Hypervisors use hardware-assisted virtualization.
+
+"Some virtual machines, such as QEMU, are designed to also emulate different architectures and allow execution of software applications and operating systems written for another CPU or architecture. Operating-system-level virtualization allows the resources of a computer to be partitioned via the kernel's support for multiple isolated user space instances, which are usually called containers and may look and feel like real machines to the end users."
+
+Originally created to run multiple OSes, such as Mac and Windows.  VMs date to the 1960s. Grew out of time-sharing (Compatible Time Sharing System, CTSS). Time-sharing allows mutltiple users to use a system at the same time. Originally each program seemed to have full access but actually was using only slices of time. Saved and restored state every time. IBM created full virtualization and early examples of hypervisors. Emulators date to 1963.
+
+Full virtualization runs a "guest" machine. Approach pioneered by IBM in 1966. First hardware to support virtualization by Intel and AMD.
+
+OS-level virtualization allows multiple virtual servers to run on one physical server.
+
+REFERENCE LINKS:
+http://www.virtualcomputing.net/virtual-machines
+https://web.archive.org/web/20060614120104/http://www.vmwarez.com/2006/05/super-fast-server-reboots-another.html
+http://www.vmware.com/pdf/server_consolidation.pdf
+http://portal.acm.org/citation.cfm?id=857077
+http://www.vmware.com/pdf/asplos235_adams.pdf
+https://en.wikipedia.org/wiki/Amazon_Machine_Image
+https://en.wikipedia.org/wiki/Storage_hypervisor
+https://en.wikipedia.org/wiki/Virtual_appliance
+https://en.wikipedia.org/wiki/Virtual_machine_escape
